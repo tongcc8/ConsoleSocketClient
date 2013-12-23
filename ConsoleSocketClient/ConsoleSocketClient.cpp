@@ -1,4 +1,6 @@
 // ConsoleSocketClient.cpp : Defines the entry point for the console application.
+// code copy from
+// http://msdn.microsoft.com/en-us/library/windows/desktop/ms737591(v=vs.85).aspx
 //
 #define WIN32_LEAN_AND_MEAN
 
