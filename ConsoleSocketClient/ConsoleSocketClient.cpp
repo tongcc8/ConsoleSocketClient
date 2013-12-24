@@ -16,7 +16,8 @@
 
 
 #define DEFAULT_BUFLEN 512
-#define DEFAULT_PORT "27015"
+//#define DEFAULT_PORT "27015"
+#define DEFAULT_PORT "55556"
 
 int _tmain(int argc, char **argv)
 {
